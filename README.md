@@ -88,3 +88,8 @@ Build a predictive analysis report that forecasts delivery demand and evaluates 
 
 # Recommendations
 
+* Optimize High-Delay Routes: Investigate and address bottlenecks on routes such as Ahmedabad → Kanchipuram and Gurgaon → Kanchipuram to reduce delays.
+* Balance Delivery Scheduling: Redistribute nighttime deliveries (12 AM – 6 AM) into daytime slots to improve punctuality and reliability.
+* Strengthen Capacity in Key States: Focus resources and logistics investments in Tamil Nadu, Maharashtra, and Gujarat where delivery volumes are highest.
+* Improve Supplier Performance: Review underperforming suppliers like Ekta Transport and enforce KPIs or consider switching to more reliable partners.
+* Leverage Predictive Insights: Prepare for rising bookings and improved timelines by scaling fleet capacity, optimizing staffing, and enhancing tracking systems.
