@@ -93,3 +93,5 @@ Build a predictive analysis report that forecasts delivery demand and evaluates 
 * Strengthen Capacity in Key States: Focus resources and logistics investments in Tamil Nadu, Maharashtra, and Gujarat where delivery volumes are highest.
 * Improve Supplier Performance: Review underperforming suppliers like Ekta Transport and enforce KPIs or consider switching to more reliable partners.
 * Leverage Predictive Insights: Prepare for rising bookings and improved timelines by scaling fleet capacity, optimizing staffing, and enhancing tracking systems.
+
+View the interactive report here: https://tinyurl.com/TransportationAnalysis
